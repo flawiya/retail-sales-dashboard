@@ -1,5 +1,6 @@
 # 🛒 Retail Sales Analytics Dashboard
 Project focus: SQL Data Cleaning, Excel Pivot Tables, Business Intelligence.
+
 ![alt text](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) ![alt text](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![alt text](https://img.shields.io/badge/Pivot_Tables-Data_Analysis-orange?style=for-the-badge) ![alt text](https://img.shields.io/badge/BI-Dashboarding-blue?style=for-the-badge) ![alt text](https://img.shields.io/badge/Data-Analytics-yellowgreen?style=for-the-badge)
 ## 📌 Project Overview
 This project analyzes retail transaction data to identify sales trends across different product lines, cities, and customer segments. Using **SQL** for data extraction and **Excel** for visualization, this dashboard provides actionable insights into revenue drivers.
